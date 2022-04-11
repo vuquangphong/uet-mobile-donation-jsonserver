@@ -1,0 +1,48 @@
+{
+    "donors": [
+        {
+            "name": "Phong",
+            "age": 21
+        },
+        {
+            "name": "Thư",
+            "age": 21
+        },
+        {
+            "name": "Long",
+            "age": 21
+        }
+    ],
+    "donations": [
+        {
+            "_id": 0,
+            "method": "Paypal",
+            "amount": "1000$"
+        },
+        {
+            "_id": 0,
+            "method": "Direct",
+            "amount": "11$"
+        },
+        {
+            "_id": 0,
+            "method": "Paypal",
+            "amount": "100$"
+        },
+        {
+            "_id": 0,
+            "method": "Paypal",
+            "amount": "111$"
+        },
+        {
+            "_id": 0,
+            "method": "Direct",
+            "amount": "1000$"
+        },
+        {
+            "_id": 0,
+            "method": "Paypal",
+            "amount": "1000$"
+        }
+    ]
+}
