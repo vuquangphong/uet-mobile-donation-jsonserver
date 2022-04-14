@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0",
-    "lowdb": "^3.0.0"
+    "lowdb": "^3.0.0",
+    "nodemon": "^2.0.15"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
