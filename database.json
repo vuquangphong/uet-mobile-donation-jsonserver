@@ -2,19 +2,19 @@
     "donations": [
       {
         "_id": "1",
-        "amount": 2000,
+        "amount": 20,
         "paymenttype": "Paypal",
         "upvotes": "3"
       },
       {
         "_id": "2",
-        "amount": 1011,
+        "amount": 11,
         "paymenttype": "Direct",
         "upvotes": "1"
       },
       {
         "_id": "3",
-        "amount": 1100,
+        "amount": 11,
         "paymenttype": "Paypal",
         "upvotes": "1"
       },
@@ -25,20 +25,20 @@
         "upvotes": "2"
       },
       {
-        "amount": 900,
+        "amount": 9,
         "id": "5",
         "paymenttype": "Direct",
         "upvotes": 0
       },
       {
         "_id": "6",
-        "amount": 111,
+        "amount": 11,
         "paymenttype": "Paypal",
         "upvotes": 0
       },
       {
         "_id": "7",
-        "amount": 99,
+        "amount": 23,
         "paymenttype": "Direct",
         "upvotes": 0
       },
@@ -50,19 +50,19 @@
       },
       {
         "_id": "9",
-        "amount": 2001,
+        "amount": 1,
         "paymenttype": "Direct",
         "upvotes": 0
       },
       {
         "_id": "10",
-        "amount": 1000,
+        "amount": 7,
         "paymenttype": "Direct",
         "upvotes": 0
       },
       {
         "_id": "11",
-        "amount": 1000,
+        "amount": 23,
         "paymenttype": "Direct",
         "upvotes": 0
       }
