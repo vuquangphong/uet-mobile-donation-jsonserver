@@ -1,48 +1,70 @@
 {
-    "donors": [
-        {
-            "name": "Phong",
-            "age": 21
-        },
-        {
-            "name": "Thư",
-            "age": 21
-        },
-        {
-            "name": "Long",
-            "age": 21
-        }
-    ],
     "donations": [
-        {
-            "_id": 0,
-            "method": "Paypal",
-            "amount": "1000$"
-        },
-        {
-            "_id": 0,
-            "method": "Direct",
-            "amount": "11$"
-        },
-        {
-            "_id": 0,
-            "method": "Paypal",
-            "amount": "100$"
-        },
-        {
-            "_id": 0,
-            "method": "Paypal",
-            "amount": "111$"
-        },
-        {
-            "_id": 0,
-            "method": "Direct",
-            "amount": "1000$"
-        },
-        {
-            "_id": 0,
-            "method": "Paypal",
-            "amount": "1000$"
-        }
+      {
+        "_id": "1",
+        "amount": 2000,
+        "paymenttype": "Paypal",
+        "upvotes": "3"
+      },
+      {
+        "_id": "2",
+        "amount": 1011,
+        "paymenttype": "Direct",
+        "upvotes": "1"
+      },
+      {
+        "_id": "3",
+        "amount": 1100,
+        "paymenttype": "Paypal",
+        "upvotes": "1"
+      },
+      {
+        "_id": "4",
+        "amount": 11,
+        "paymenttype": "Paypal",
+        "upvotes": "2"
+      },
+      {
+        "amount": 900,
+        "id": "5",
+        "paymenttype": "Direct",
+        "upvotes": 0
+      },
+      {
+        "_id": "6",
+        "amount": 111,
+        "paymenttype": "Paypal",
+        "upvotes": 0
+      },
+      {
+        "_id": "7",
+        "amount": 99,
+        "paymenttype": "Direct",
+        "upvotes": 0
+      },
+      {
+        "_id": "8",
+        "amount": 23,
+        "paymenttype": "Paypal",
+        "upvotes": 1
+      },
+      {
+        "_id": "9",
+        "amount": 2001,
+        "paymenttype": "Direct",
+        "upvotes": 0
+      },
+      {
+        "_id": "10",
+        "amount": 1000,
+        "paymenttype": "Direct",
+        "upvotes": 0
+      },
+      {
+        "_id": "11",
+        "amount": 1000,
+        "paymenttype": "Direct",
+        "upvotes": 0
+      }
     ]
-}
+  }
