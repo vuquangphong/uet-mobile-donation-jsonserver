@@ -4,67 +4,78 @@
         "_id": "1",
         "amount": 20,
         "paymenttype": "Paypal",
-        "upvotes": "3"
+        "upvotes": "3",
+        "date": "18/04/2022"
       },
       {
         "_id": "2",
         "amount": 11,
         "paymenttype": "Direct",
-        "upvotes": "1"
+        "upvotes": "1",
+        "date": "18/04/2022"
       },
       {
         "_id": "3",
         "amount": 11,
         "paymenttype": "Paypal",
-        "upvotes": "1"
+        "upvotes": "1",
+        "date": "18/04/2022"
       },
       {
         "_id": "4",
         "amount": 11,
         "paymenttype": "Paypal",
-        "upvotes": "2"
+        "upvotes": "2",
+        "date": "18/04/2022"
       },
       {
         "amount": 9,
         "id": "5",
         "paymenttype": "Direct",
-        "upvotes": 0
+        "upvotes": 0,
+        "date": "18/04/2022"
       },
       {
         "_id": "6",
         "amount": 11,
         "paymenttype": "Paypal",
-        "upvotes": 0
+        "upvotes": 0,
+        "date": "18/04/2022"
       },
       {
         "_id": "7",
         "amount": 23,
         "paymenttype": "Direct",
-        "upvotes": 0
+        "upvotes": 0,
+        "date": "18/04/2022"
       },
       {
         "_id": "8",
         "amount": 23,
         "paymenttype": "Paypal",
-        "upvotes": 1
+        "upvotes": 1,
+        "date": "18/04/2022"
       },
       {
         "_id": "9",
         "amount": 1,
         "paymenttype": "Direct",
-        "upvotes": 0
+        "upvotes": 0,
+        "date": "18/04/2022"
       },
       {
         "_id": "10",
         "amount": 7,
         "paymenttype": "Direct",
-        "upvotes": 0
+        "upvotes": 0,
+        "date": "18/04/2022"
       },
       {
         "_id": "11",
         "amount": 23,
         "paymenttype": "Direct",
-        "upvotes": 0
+        "upvotes": 0,
+        "date": "18/04/2022"
       }
     ]
   }
